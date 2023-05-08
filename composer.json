@@ -1,0 +1,17 @@
+{
+    "name": "eric/scandiweb",
+    "authors": [
+        {
+            "name": "Eric",
+            "email": "ericarantes0@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
